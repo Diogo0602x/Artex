@@ -2,8 +2,9 @@
 
 body.dark{
 	color: #b6b2bf;
-	background-color: #131313;
+	background-color: #000;
 }
+
 body.dark h1,
 body.dark h2,
 body.dark h3,
@@ -17,13 +18,13 @@ body.dark::-webkit-scrollbar {
 }
 body.dark{
   scrollbar-width: thin;
-  scrollbar-color: #666 #131313;
+  scrollbar-color: #003870 #003870;
 }
 body.dark:-webkit-scrollbar-track {
   background: #131313;
 }
 body.dark::-webkit-scrollbar-thumb {
-  background-color: #666;
+  background-color: #003870;
   border-radius: 6px;
   border: 3px solid #131313;
 }
@@ -31,7 +32,7 @@ body.dark .aali_tm_hero{
 	background-color: #00081c;
 }
 body.dark .aali_tm_header.animate{
-	background-color: #131313;
+	background-color: #00081c;
 }
 body.dark .aali_tm_header.animate .menu ul li a{
 	color: #fff;

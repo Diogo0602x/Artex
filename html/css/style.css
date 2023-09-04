@@ -295,8 +295,8 @@ h6 { font-size: 16px; }
 	height: auto;
 	float: left;
 	clear: both;
-	background-color: rgb(14, 14, 14);
-	border-bottom: 1px solid rgba(0,0,0,.1);
+	background-color: #00081c;
+	border-bottom: 1px solid #00081c;
 	padding: 15px 20px 15px 20px;
 }
 .aali_tm_mobile_menu .mobile_in{
@@ -322,7 +322,7 @@ h6 { font-size: 16px; }
 	height: auto;
 	clear: both;
 	float: left;
-	background-color: rgb(14, 14, 14);
+	background-color: #00081c;
 	display: none;
 }
 .aali_tm_mobile_menu .dropdown .dropdown_inner{
@@ -529,7 +529,7 @@ h6 { font-size: 16px; }
 }
 .aali_tm_button a{
 	text-decoration: none;
-	color: #00081c;
+	color: #FFF;
 	font-family: "Josefin Sans";
 	display: inline-block;
 	background-color: #ff5d00;
@@ -572,7 +572,7 @@ h6 { font-size: 16px; }
 	transform: translateY(-50%);
 	width: 18px;
 	height: 18px;
-	color: #00081c;
+	color: #FFF;
 	margin-left: 9px;
 	margin-top: -2px;
 	
@@ -826,7 +826,7 @@ h6 { font-size: 16px; }
 	position: absolute;
 	width: 270px;
 	height: 270px;
-	background-color: #003870;
+	background-color: #0070c4;
 	bottom: -80px;
 	left: -65px;
 	z-index: 0;
@@ -866,13 +866,18 @@ h6 { font-size: 16px; }
 	margin-bottom: 6px;
 }
 .aali_tm_about .center h3{
-	font-size: 72px;
+	font-size: 44px;
 	font-weight: 700;
 	letter-spacing: -.2px;
 }
 .aali_tm_about .center h3 span{
 	color: #0070c4;
 }
+
+.aali_tm_about .center p{
+	color: #FFF;
+}
+
 .aali_tm_about .center .subtitle{
 	font-family: "Josefin Sans";
 	font-size: 36px;
@@ -923,7 +928,7 @@ h6 { font-size: 16px; }
 .aali_tm_about .right .square{
 	width: 1000px;
 	height: 390px;
-	background-color: #003870;
+	background-color: #0070c4;
 	position: absolute;
 	left: 100%;
 	margin-left: -200px;
