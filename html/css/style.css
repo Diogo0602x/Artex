@@ -2304,6 +2304,11 @@ h6 { font-size: 16px; }
 	display: flex;
 	margin-top: 60px;
 }
+
+.aali_tm_contact .contact_inner .list_inner h4{
+	color: #0070c4;
+}
+
 .aali_tm_contact .left{
 	width: 50%;
 	padding-right: 50px;
